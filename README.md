@@ -64,7 +64,7 @@ Structure of the tokens:
 
 Output of Lexical analyzer (token stream + symbol table:
 
-![ScreenShot](https://raw.githubusercontent.com/sirireddy25/mini_C_compiler/main/Lexical%20Analyser/LA.png?token=GHSAT0AAAAAACNHT34CO4JGHMG6UEZ5V7T2ZSDNT5Q)
+![LA](https://github.com/sirireddy25/mini_C_compiler/assets/79968911/4bb18922-f763-4c19-8f57-277535e645ff)
 
 ## Recursive Descent Parser
 This is the second step in the compilation process. The output of the lexical analyser - stream of tokens + symbol table is passed to the parser. The parser checks that the source code is according to the given grammar. 
