@@ -72,8 +72,10 @@ This is the second step in the compilation process. The output of the lexical an
 Recursive descent is a top-down parsing technique that constructs the parse tree from the top (non-terminals are expanded) and the input is read from left to right. For every non-terminal, there is a procedure call.
 
 Output for error free code:
+
 ![App Screenshot](https://raw.githubusercontent.com/sirireddy25/mini_C_compiler/main/RD%20Parser/success.png?token=GHSAT0AAAAAACNHT34CPIGANQPU3OKWXITGZSDNHJA)
 
 Output for code with error:
+
 ![App Screenshot](https://raw.githubusercontent.com/sirireddy25/mini_C_compiler/main/RD%20Parser/error.png?token=GHSAT0AAAAAACNHT34DHNOY6SOMTI7YY4VCZSDNGVQ)
 
