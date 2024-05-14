@@ -62,7 +62,7 @@ Structure of the tokens:
   <token type, row number, column number>
 ```
 
-Output:
+Output of Lexical analyzer (token stream + symbol table:
 
 ![App Screenshot](https://raw.githubusercontent.com/sirireddy25/mini_C_compiler/main/Lexical%20Analyser/LA.png?token=GHSAT0AAAAAACNHT34CVLBMN74F6ZF6SLGYZSDNLNA)
 
