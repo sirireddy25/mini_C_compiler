@@ -64,7 +64,7 @@ Structure of the tokens:
 
 Output of Lexical analyzer (token stream + symbol table:
 
-![App Screenshot](https://raw.githubusercontent.com/sirireddy25/mini_C_compiler/main/Lexical%20Analyser/LA.png?token=GHSAT0AAAAAACNHT34CVLBMN74F6ZF6SLGYZSDNLNA)
+![Alt text](Lexical Analyser/LA.png?raw=true "Optional Title")
 
 
 ## Recursive Descent Parser
