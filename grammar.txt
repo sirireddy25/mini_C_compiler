@@ -1,0 +1,41 @@
+Program -> main ( ) { declarations statement_list }
+
+declarations -> data_type identifier_list; declarations | € 
+
+data_type -> int | char
+
+identifier_list -> id identifier_listprime
+identifier_listprime -> € | , identifier_list | [number] identifier_listprime1
+identifier_listprime1 -> € | ,identifier_list
+
+statement_list → statement statement _list | € 
+
+statement -> assign_stat; | decision_stat | looping_stat 
+
+decision_stat -> if (expn) {statement_list} dprime
+
+dprime -> else{statemnt_list} | € 
+
+looping_stat → while (expn) {statement_list} | for (assign_stat; expn; assign_stat){statement_list}
+
+assign _stat -> id = expn
+
+expn -> simple_expn eprime 
+
+eprime -> relop simple_expn | € 
+
+simple_exp -> term seprime 
+
+seprime -> addop term seprime | € 
+
+term -> factor tprime
+
+tprime -> mulop factor tprime | € 
+
+factor -> id| num
+
+relop -> == | != |<= |>= | > |< 
+
+addop -> + | -
+
+mulop -> * | / | %
