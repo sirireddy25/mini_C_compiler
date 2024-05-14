@@ -73,9 +73,9 @@ Recursive descent is a top-down parsing technique that constructs the parse tree
 
 Output for error free code:
 
-![ScreenShot](https://raw.githubusercontent.com/sirireddy25/mini_C_compiler/main/RD%20Parser/success.png?token=GHSAT0AAAAAACNHT34DZ3R46I7PKBKSTQTAZSDNWPQ)
+![success](https://github.com/sirireddy25/mini_C_compiler/assets/79968911/7f116a87-9252-4ca8-bc90-07caf1f4ced7)
 
 Output for code with error:
 
-![ScreenShot](https://raw.githubusercontent.com/sirireddy25/mini_C_compiler/main/RD%20Parser/error.png?token=GHSAT0AAAAAACNHT34DQD7LHTUTHI34BXKKZSDNWNA)
+![error](https://github.com/sirireddy25/mini_C_compiler/assets/79968911/05b67e43-90a4-43aa-99ee-aaa1a790dfdf)
 
