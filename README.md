@@ -63,7 +63,8 @@ Structure of the tokens:
 ```
 
 Output:
-![App Screenshot](https://raw.githubusercontent.com/sirireddy25/mini_C_compiler/main/Lexical%20Analyser/LA.png?token=GHSAT0AAAAAACNHT34CVH5RZBYRZDEDPKGQZSDM2XQ)
+
+![App Screenshot](https://raw.githubusercontent.com/sirireddy25/mini_C_compiler/main/Lexical%20Analyser/LA.png?token=GHSAT0AAAAAACNHT34CVLBMN74F6ZF6SLGYZSDNLNA)
 
 
 ## Recursive Descent Parser
