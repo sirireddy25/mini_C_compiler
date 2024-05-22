@@ -1,7 +1,7 @@
 
 # Miniature C compiler
 
-
+This project assesses the syntactical correctness of a C program by performing lexical analysis and recursive descent parsing according to the given grammar.
 
 
 ## Grammar
